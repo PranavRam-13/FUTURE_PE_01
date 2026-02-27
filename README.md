@@ -74,16 +74,17 @@ Closing CTA
 
 Prompt System Location
 
-The master structured prompt can be found in:
+The master structured prompt can be accessed here:
 
-Prompts/master_prompt.md
+View Master Prompt
+
 Generated Outputs
 
-All generated content examples are documented inside:
+All generated website copy examples are documented here:
 
-Outputs/
+View Outputs Folder
 
-Each output file corresponds to a different business and tone variation.
+Each output file contains the AI-generated website copy for the tested local business, including headline variations, service sections, FAQs, and CTAs.
 
 Key Features of the Prompt System
 
