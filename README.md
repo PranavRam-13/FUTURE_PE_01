@@ -76,15 +76,17 @@ Prompt System Location
 
 The master structured prompt can be accessed here:
 
-View Master Prompt
+[View Master Prompt](./Prompts/master_prompt.md)
 
 Generated Outputs
 
-All generated website copy examples are documented here:
+The current repository includes one tested business example
 
-View Outputs Folder
+The output file contains the AI-generated website copy for the tested local business, including headline variations, service sections, FAQs, and CTAs.
 
-Each output file contains the AI-generated website copy for the tested local business, including headline variations, service sections, FAQs, and CTAs.
+The output can be accessed here:
+
+[View Outputs Folder](./Outputs/)
 
 Key Features of the Prompt System
 
