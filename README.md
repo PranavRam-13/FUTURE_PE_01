@@ -44,7 +44,7 @@ Local Relevance Integration
 
 The prompt ensures consistent structure and adaptable tone for different local businesses.
 
-2 Prompt Testing
+2. Prompt Testing
    
 The generator was tested using a real local gym business to evaluate:
 
@@ -60,7 +60,7 @@ Local relevance integration
 
 The test produced:
 
-3 Hero headline variations
+3. Hero headline variations
 
 Value-focused subheadline
 
